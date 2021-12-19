@@ -4,3 +4,4 @@ https://lndb.grand-challenge.org/Home/
 CREDITS TO:<br/>
 https://theaisummer.com/medical-image-python/ <br/>
 https://www.kaggle.com/arnavkj95/candidate-generation-and-luna16-preprocessing
+https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
